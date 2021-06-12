@@ -16,8 +16,5 @@
 2. 替换参数值
 3. 签到并发送通知
 
-2021/2/23
-2021/03/26
-2021/4/15
-2021/5/5
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
+京东:https://plogin.m.jd.com/login/login
